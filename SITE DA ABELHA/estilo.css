@@ -1,0 +1,153 @@
+body {
+
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+#topo {
+	width: 1044px;
+	height: 100px;
+	margin: 0 auto;
+	background-color:#30261c;
+	color: #e69fa1;
+	padding-top:18px;
+	text-align:left;
+	font-family:Arial;
+
+
+}
+
+#conteudo{
+		width: 1024px;
+		height: 1000px;
+		margin: auto;
+		background-color:#30261c;
+		padding: 10px 10px;
+
+}
+
+
+#texto1 {
+	background-color:#e6d271;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+
+}
+#texto2 {
+	background-color:#66b097;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+
+}#texto3 {
+	background-color:#6dae6c;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+
+}#texto4 {
+	background-color:#d58689;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+
+}#texto5 {
+	background-color:#ccc;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+
+}
+#abelhaImagem{
+	background-color:#ccc;
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+#cadastro{
+	background-color:#e69fa1;
+	width: 300px;
+	height: 627px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float: right;
+	margin: 0 20px 20px 0;
+	font-family:Arial;
+
+}
+#texto5{
+	background-color:#e6d271;
+	width: 640px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 10px;
+	float:right; 
+	margin: 0 20px 20px 0;
+	font-family: Arial;
+}
+/*+++++++++++++++++++++++++++++++++++++TABELAS+++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#tabela1 , #tabela1 td,#tabela1 th {
+	border:1px #000 solid ;
+	width: 600px;
+	font-family:Arial;
+	margin-bottom:70px;
+}
+
+#tabela1  {
+	border:1px #000 solid ;
+	width: 600px;
+	height: 200px;
+	font-family:Arial;
+	margin-bottom:70px;
+	background-color: #e6d271;
+
+}
+#tabela1  {
+border-collapse: collapse;
+
+}
+#tabela1 td {
+	text-align: center;
+	background-color:#e6d271;
+
+}
+#tabela1 th {
+background-color:#30261c;
+color:#fff;
+
+}
+
+#botao{
+	background-color: #fff;
+	color: #9326f2;
+	
+
+}
+
+	
